@@ -14,8 +14,6 @@ Stack: Python 3 · pandas / NumPy · scikit-learn · matplotlib / seaborn · ope
 
 Author: Anish Kuila
 
-Status: Feature-complete, archived (Bachelor's CS project, 2018–22)
-
 ## Table of contents
 - [What it does](#what-it-does)
 - [Architecture](#architecture)
